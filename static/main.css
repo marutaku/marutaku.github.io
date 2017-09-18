@@ -1,0 +1,56 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+body {
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0px;
+}
+
+#index{
+    background-image: url('./img/index.jpg');
+    background-size: cover;
+}
+
+.headline{
+    margin-top: 20px
+}
+
+.main{
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1.title{
+    text-align: center;
+    text-decoration: underline;
+    color: #00BCD4;
+    margin-top: 10px;
+}
+
+h2{
+    color: #E0F7FA;
+    border-bottom: solid 1px #eee;
+    font-size: 2em;
+    line-height: 1.225;
+    margin-bottom: .5em;
+    margin-top: 2.5em;
+    padding-bottom: .3em;
+}
+
+
+.done{
+    text-decoration: line-through;
+}
+
+.center{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.todo{
+    width:50%;
+    margin: 0 auto;
+}
